@@ -1,0 +1,5 @@
+resource_id,name,resource_type,location,quantity,status
+RES101,Arduino Starter Kit,EXPERIMENT_KIT,IoT Lab,8,AVAILABLE
+RES102,Digital Multimeter,EQUIPMENT,Electronics Lab,4,AVAILABLE
+RES103,Lab PC,COMPUTER,Programming Lab,20,AVAILABLE
+RES104,Raspberry Pi Kit,EXPERIMENT_KIT,AIML Lab,5,AVAILABLE

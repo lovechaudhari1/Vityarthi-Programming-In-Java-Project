@@ -1,0 +1,4 @@
+experiment_id,name,experiment_type,duration_minutes,max_students
+EXP201,IoT Temperature Monitoring,IoT,60,4
+EXP202,Digital Circuit Analysis,Electronics,60,4
+EXP203,Raspberry Pi Sensor Logging,AIML,90,5
